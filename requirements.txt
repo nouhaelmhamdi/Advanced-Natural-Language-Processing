@@ -1,0 +1,10 @@
+pandas>=1.3
+numpy>=1.21
+scikit-learn>=1.0
+matplotlib>=3.4
+seaborn>=0.11
+tensorflow>=2.9
+jupyter
+ipykernel
+# Optional (if you want the CPU-only tensorflow build on some systems):
+# tensorflow-cpu>=2.9
